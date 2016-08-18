@@ -4,4 +4,4 @@ Eric
 JJFly
 Mike
 Blue
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
